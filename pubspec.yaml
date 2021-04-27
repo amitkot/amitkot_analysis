@@ -1,0 +1,14 @@
+name: amitkot_analysis
+version: 1.0.0
+description: >-
+  Dart analyzer settings and best practices used by Amit Kotlovski.
+repository: https://github.com/amitkot/amitkot_analysis
+issue_tracker: https://github.com/amitkot/amitkot_analysis/issues
+homepage: https://github.com/amitkot/amitkot_analysis
+documentation: https://github.com/amitkot/amitkot_analysis
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+dependencies:
+  pedantic: ^1.11.0
